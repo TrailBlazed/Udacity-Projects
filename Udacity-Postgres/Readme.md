@@ -35,5 +35,5 @@ In this project, a data model, i.e, the fact and dimension tables for a Star Sch
 
 * etl.py - read and processes all the files from song_data and log_data and loads processed data into your tables.
 
-* test.ipnb displays the first few rows of each table to let you check your database
+* test.ipnb - displays the first few rows of each table to let you check your database
 
